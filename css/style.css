@@ -1,0 +1,47 @@
+body {
+    background: url("../img/pattern.png");
+    margin: 0;
+}
+h1 {
+    font-size: 45px;
+    color: #861ee7;
+    font-family: "Times New Roman", serif;
+    line-height: 1.5;
+}
+.text {
+    font-size: 20px;
+    color: #0022ff;
+}
+.card {
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 5px 10px
+    #ccc;
+    border-radius: 10px;
+}
+.card-photo {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.card-title {
+    font-size: 20px;
+    text-align: center;
+    color: rebeccapurple;
+}
+.card-text {
+    font-size: 14px;
+}
+.card-subtitle {
+    font-size: 18px;
+    color: darkblue;
+}
+.abilities {
+    font-size: 16px;
+    padding-left: 0;
+    list-style-position: inside;
+}
